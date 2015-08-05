@@ -1,0 +1,3 @@
+kernel//home/lab428/ethercat-1.5.2/examples/mini/ec_mini.ko
+kernel//home/lab428/ethercat-1.5.2/examples/rtai/ec_rtai_sample.ko
+kernel//home/lab428/ethercat-1.5.2/examples/dc_rtai/ec_dc_rtai_sample.ko

@@ -1,0 +1,1 @@
+cmd_/home/lab428/ethercat-1.5.2/examples/dc_rtai/ec_dc_rtai_sample.o := ld -m elf_i386   -r -o /home/lab428/ethercat-1.5.2/examples/dc_rtai/ec_dc_rtai_sample.o /home/lab428/ethercat-1.5.2/examples/dc_rtai/dc_rtai_sample.o 
